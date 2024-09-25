@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zvawu.github.io/fdM/sitemap.fdM.gz
